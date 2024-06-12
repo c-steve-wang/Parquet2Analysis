@@ -1,5 +1,5 @@
 
-# Parquet File Analysis Tool
+# Parquet2Analysis
 
 This repository contains scripts to analyze Parquet files using Python. The tools include functionality for data description, value analysis, and linear regression analysis with p-values.
 
